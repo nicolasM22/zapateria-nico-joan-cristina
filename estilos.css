@@ -1,0 +1,99 @@
+.w1{
+    height: 250px;
+    width: 250px;
+    margin: 15px 15px 15px ;
+    border-radius: 8px;
+}
+.centre{
+    text-align: center; 
+}
+.logo{
+    height: 138px;
+    width: 150px;
+    float: left;
+    position: absolute;
+    
+}
+.logo1{
+    height: 138px;
+    background-color: peru;
+    color: rgb(255, 255, 255);
+    
+}
+.PR{
+    color: peru;
+    text-align: center;
+}
+.eslogan{
+    color: peru;
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(238, 234, 202) ;
+}
+.ptm{
+    text-align: center;
+    font-weight: bold;
+    font-style: Verdana; 
+    background-color: #ffe6e6;
+    
+    
+    }
+    
+    .md{
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+    margin: 15px 15px 15px ;
+    }
+    .prt{
+        text-align: center;
+    }
+    .txt{
+        text-align: center;
+        color: #000000;
+        background-color: #f5f5f0;
+    }
+    .md2{
+    border-radius: 8px;
+    width: 400px;
+    height: 200px;
+    }
+.ptn{
+    text-align: center;
+     font-weight: bold;
+    font-style: Verdana; 
+    background-color: #dca8ff8e; 
+}
+.txtn{
+    text-align: center;
+    color: #000000;
+    background-color: #aef7ed;
+}
+.txtX{
+    text-align: center;
+    color: #000000;
+    background-color: #faaddc;
+}
+.txth{
+    text-align: center;
+    color: #000000;
+    background-color: #b7defd;
+}
+.pth{
+    text-align: center;
+    font-weight: bold;
+    font-style: Verdana; 
+    background-color: #376cff8e;    
+}
+.compra{
+    text-align: center;
+}
+.color{
+    color: peru;
+}
